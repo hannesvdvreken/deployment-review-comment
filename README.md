@@ -50,7 +50,7 @@ Below screenshot shows the execution of the action after two deployment reviews 
         user: 'user who approved/rejected',
         comment: 'comment as part of the review',
         state: 'approved/rejected',
-        envitonment: 'environment name'
+        environment: 'environment name'
     }
 ]
 ```
